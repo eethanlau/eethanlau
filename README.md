@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h1 align="center">Hi 👋, I'm Ethan Lau</h1>
 <h3 align="center">Undegraduate Computer Science Student pursuing a career in Data Science and Machine Learning</h3>
 
-- 🔭 I’m currently working on [SubSafe](https://github.com/eethanlau)
+- 🔭 I’m currently working on [SubSafe](https://github.com/eethanlau/subsafe)
 
 - 🌱 I’m currently learning **React**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, JavaScript, MERN Stack, OOP**
 
-- 📫 How to reach me **elau@gmail.com**
+- 📫 How to reach me **ethan.lau151@gmail.com**
 
 - ⚡ Fun fact **I love cinematography & movies!**
 
