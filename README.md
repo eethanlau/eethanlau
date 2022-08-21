@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ethan Lau</h1>
+<h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">Undegraduate Computer Science Student pursuing a career in Data Science and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eethanlau&label=Profile%20views&color=0e75b6&style=flat" alt="eethanlau" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eethanlau" alt="eethanlau" /></a> </p>
-
-- 🔭 I’m currently working on [SubSafe](https://github.com/eethanlau/subsafe)
+- 🔭 I’m currently working on [SubSafe](https://github.com/eethanlau)
 
 - 🌱 I’m currently learning **React**
 
@@ -17,7 +13,7 @@
 
 - 💬 Ask me about **Python, JavaScript, MERN Stack, OOP**
 
-- 📫 How to reach me **ethan.lau151@gmail.com**
+- 📫 How to reach me **elau@gmail.com**
 
 - ⚡ Fun fact **I love cinematography & movies!**
 
@@ -32,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eethanlau&show_icons=true&locale=en&layout=compact" alt="eethanlau" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eethanlau&show_icons=true&locale=en" alt="eethanlau" /></p>
-
