@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Lau</h1>
 <h3 align="center">Undegraduate Computer Science Student pursuing a career in Data Science and Machine Learning</h3>
 
-- 🔭 I’m currently working on [SubSafe](https://github.com/eethanlau/subsafe)
+- 🔭 I’m currently working on [QuickCart](https://github.com/eethanlau/QuickCart)
 
 - 🌱 I’m currently learning **React**
 
