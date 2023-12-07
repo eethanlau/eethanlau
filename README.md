@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UserLink](https://github.com/eethanlau/social-media-app-REST-API)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
