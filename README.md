@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ethan Lau</h1>
 <h3 align="center">Undegraduate Computer Science Student pursuing a career in Data Science and Machine Learning</h3>
 
-- 🔭 I’m currently working on [UserLink](https://github.com/eethanlau/social-media-app-REST-API)
+- 🔭 I’m currently working on [NLP and Web dev projects!](https://github.com/eethanlau/social-media-app-REST-API)
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 I’m looking to collaborate on **Full Stack Dev Projects**
 
 - 🤝 I’m looking to help with **Open Source Projects**
 
