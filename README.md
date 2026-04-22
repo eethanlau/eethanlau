@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NLP and Full-Stack projects!](https://github.com/eethanlau/social-media-app-REST-API)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java + Spring Boot**
 
 - 👯 I’m looking to collaborate on **Full Stack Dev Projects**
 
