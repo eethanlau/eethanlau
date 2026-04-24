@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Lau</h1>
 <h3 align="center">Graduate Computer Science Student pursuing a career in Software Engineering and Machine Learning</h3>
 
-- 🔭 I’m currently working on **[Backend and DevOps projects!]**
+- 🔭 I’m currently working on **Backend and DevOps projects!**
 
 - 🌱 I’m currently learning **Java + Spring Boot**
 
